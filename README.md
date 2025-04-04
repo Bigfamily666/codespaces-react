@@ -13,6 +13,7 @@ This project was bootstrapped for you with [Vite](https://vitejs.dev/).
 In the project directory, you can run:
 
 ### `npm start`
+customer 
 
 We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
 
